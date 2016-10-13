@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Passion+One|Merriweather|Oswald);
+
+
+.jumbotron{
+    background-color: transparent;
+}
+
+
+h1{
+    font-family: 'Oswald', cursive;
+    display: inline-block;
+    padding-right: 50%;
+}
+
+
+ul{
+    margin-bottom: 0px;
+    display: inline-block;
+
+}
+
+li{
+    padding-right: 30px;
+    display: inline;
+    list-style-type: none;
+}
+
+.nav{
+    margin-bottom: 200px;
+}
+
+
+.subtitle{
+    font-family: 'Oswald', cursive;
+    font-size:24px;
+}
+
+li > a {
+    color: darkgrey;
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    text-decoration: none !important;
+}
+
+rect{
+    fill: darkslategrey;
+}
+
+.row{
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+
+hr {
+    background-color: black;
+    border: 0;
+    height: 1px;
+/*    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));*/
+}
+
+.jumbotron{
+    padding-bottom: 0px;
+}
+
+.img-responsive{
+    margin: 0 auto;
+}
